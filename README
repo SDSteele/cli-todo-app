@@ -2,20 +2,18 @@
 
 A simple command-line To-Do list app written in Python. Stores your tasks in a local JSON file and supports adding, viewing, and completing tasks directly in your terminal.
 
-## 📦 Features
+# Features
 
 - Add new tasks
 - View current task list
 - Mark tasks as completed
 - Stores tasks in a JSON file for persistence
 
-## 🚀 Getting Started
-
-### Requirements
+# Requirements
 
 - Python 3.x
 
-### Run the App
+# Run the App
 
 ```bash
 python todo.py
